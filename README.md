@@ -22,7 +22,7 @@
 
 ## 1. Acerca de CompuSoluciones
 
-CompuSolucioneses una empresa mexicana que en sus 35 años de historia ha logrado convertirse en elm ayorista de valor líder en el mercado mexicano,consolidando un ecosistema tecnológico sólido que atiende a  las  principales  empresas  en  los  mercados  más  importantes, en alianzas de  empresas complementarias como nuestros proveedores y clientes y basados en la vivencia de valores
+CompuSolucioneses una empresa mexicana que en sus 35 años de historia ha logrado convertirse en el mayorista de valor líder en el mercado mexicano, consolidando un ecosistema tecnológico sólido que atiende a  las  principales  empresas  en  los  mercados  más  importantes, en alianzas de  empresas complementarias como nuestros proveedores y clientes y basados en la vivencia de valores
 
 Uno de los procesos críticos de la compañía es el análisis y otorgamiento de líneas de crédito a sus distribuidores, para mejorar los plazos de recuperación de cartera y disminuir el riesgo de fraude.
 
@@ -122,6 +122,8 @@ Recuerde que tiene 3 oportunidades de envío de la solución del reto donde se l
 Mira el [video explicativo](#4-desarrollando-la-solución) provisto en la Sección 4, o si lo deseas, revisa la documentación de los servicios involucrados en este desafío.
 
 Accede al discord oficial de la Maratón 2020 para hacer preguntas y/o interactuar con otros participantes: [Discord](https://discord.gg/Q9At74C).
+
+## Implementacion de mi Solución
 
 ## Licencia
 
